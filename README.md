@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-This is my first machine learning project
+This is my machine learning project
 # Software and account requirement.
 1.Github account
 2.Heroku account
