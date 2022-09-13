@@ -27,3 +27,4 @@ heroku app name:-ml-linearregression.app''
 '''
 build docker image
 docker build -t <image_name>:<tagname>
+install ipykernal
